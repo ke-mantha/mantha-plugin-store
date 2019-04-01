@@ -1,0 +1,1 @@
+# mantha-plugin-store
